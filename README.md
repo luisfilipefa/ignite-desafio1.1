@@ -11,6 +11,7 @@ Neste desafio, era necessário implementar algumas funcionalidades a uma aplica�
 - Dependências necessárias:
   - nodejs: https://nodejs.org/en/download/
   - yarn: após ter o node instalado, executar no terminal `npm install yarn --global`
+  - dependências do projeto: executar no terminal dentro da raiz do projeto `yarn`
 
 - Clonar o repositório:
 `
